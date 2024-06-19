@@ -36,6 +36,12 @@ streamlit run app.py
 
 The generated blog post will be displayed on the screen.
 
+## System Architecture 
+![alt text](system_architecture.png)
+
+## Data Flow Diagram 
+![alt text](dfd.png)
+
 ## Code Explanation
 
 ### Imports
